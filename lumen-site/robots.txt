@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Host: https://lumen-clothing.ru
+Sitemap: https://lumen-clothing.ru/sitemap.xml
